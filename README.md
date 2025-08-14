@@ -11,9 +11,10 @@
 <div align="center">
   <!-- Downloads -->
   <!-- <a href="https://abhaykumartomer.github.io/Resume/Resume%20Abhay%20Kumar.pdf"> -->
-  <a href="https://abhaykumartomar.vercel.app/img/Resume%20Abhay%20Kumar.pdf">
+  <!-- <a href="https://abhaykumartomar.vercel.app/img/Resume%20Abhay%20Kumar.pdf"> -->
+    <a href="https://tomerabhay.netlify.app/res/Resume%20Abhay%20Kumar.pdf">
     <!--<img src="https://img.shields.io/npm/dt/tomerabhay.github.io.svg" alt="Downloads" />-->
-    [Download PDF resume_Abhay Kumar 4.5 YOE]
+    [Download PDF resume_Abhay Kumar 7.5+ YOE]
   </a>
     <!--<img src="https://img.shields.io/npm/dt/abhaykumartomer.github.io.svg"      alt="Downloads" />-->
     
@@ -24,7 +25,7 @@
     <summary><b>click here for more details 😝</b></summary><br/>
 
 <div align="center">
-<a href="https://github.com/abhaykumartomar" target="_blank">
+<a href="https://github.com/tomarabhay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/abhaykumartomer" target="_blank">
@@ -33,7 +34,7 @@
 <a href="https://dev.to/abhaykumartomer" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/abhaykumartomer" target="_blank">
+<a href="https://linkedin.com/in/abhaykumartomar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/abhaykumartomar.akt" target="_blank">
